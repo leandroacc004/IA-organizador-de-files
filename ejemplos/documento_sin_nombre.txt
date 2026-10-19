@@ -1,0 +1,9 @@
+CURRÍCULUM VITAE
+
+Nombre: Leandro A.
+Correo: ejemplo@correo.com
+Experiencia:
+- 2024-2026: Desarrollador junior, automatización de procesos.
+Educación:
+- Ingeniería en Sistemas (en curso)
+Habilidades: Python, SQL, automatización, APIs.

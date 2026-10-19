@@ -1,0 +1,12 @@
+FACTURA N.º 2026-0315
+Proveedor: Servicios Digitales Andinos S.A.
+Cliente: Leandro A.
+Fecha de emisión: 15/03/2026
+
+Concepto                         Cantidad   Precio unitario   Total
+Hosting anual                    1          120.00            120.00
+Dominio .com                     1          15.00             15.00
+
+Subtotal: 135.00
+IVA (12%): 16.20
+TOTAL A PAGAR: 151.20 USD
